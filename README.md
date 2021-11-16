@@ -1,5 +1,9 @@
 # SYS-EMBARQUE-EQUIPE-5
 
+-------------
+
+<img src="https://github.com/thdal/SYS-EMBARQUE-EQUIPE-5/blob/main/montage.png" width="250" height="300">
+
 THIBAUT DALENS
 MATHIEU EFFROY
 PIERRE TISSERAND
