@@ -1,13 +1,13 @@
 # SYS-EMBARQUE-EQUIPE-5
 
+THIBAUT DALENS  
+MATHIEU EFFROY  
+PIERRE TISSERAND  
+ACHRAF AFRI  
+
 -------------
 
 <img src="https://github.com/thdal/SYS-EMBARQUE-EQUIPE-5/blob/main/montage.png" width="250" height="300">
-
-THIBAUT DALENS
-MATHIEU EFFROY
-PIERRE TISSERAND
-ACHRAF AFRI
 
 Code C++ d'un lecteur RFID - si la carte est valide (connue) la led verte s'allume, la led rouge sinon.
 
